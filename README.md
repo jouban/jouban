@@ -1,10 +1,45 @@
-# 🤸‍♂️Jouban 
-**`Virtual Builder`**
-## About me: 
-- Build projects
-- Solve problems
-- Engineer solutions
-  
+<h1 align="center"> ~$ whoami - Mohamad Jouban</h1>
+<h3 align="center">Virtual Builder</h3>
+<h3 align="center">Bridging Computer Science Neural Networks To Build Practical Automated Systems</h3>
+
+
+
+## ~ About Me
+ - Student at UHUD
+ - Building AI projects
+ - Engineering solutions 
+ - 3rd Year Student at UHUD
+
+## ~ What I do
+
+```
+const mohamadjouban: student = {
+  name:     "Mohamad Jouban",
+  role:     "student",
+  location: "United Kingdom",
+
+  focus: [
+    " Designing and Building real world automated systems",
+    " Leading and tracking progress of software analysis",
+    " Diverse use of technical solutions for real world problems",
+  ],
+
+  principle: "Building intelligent, secure, and automated AI/MLs",
+};
+```
+
+## ~ Learning
+- 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```
+- Working on learning Computational Mathematics 
+- Working on learning Data-driven Artificial Intelligence
+- Working on learning Knowledge-Based Artificial Intelligence
+- Working on learning Distributed and Client Server Systems
+```
+## ~ Skills & Tools: 
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,php,c,github,linux)](https://skillicons.dev)
+
+### ~ Reach Me:
 <a href="https://www.linkedin.com/in/mohamad-jouban/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
