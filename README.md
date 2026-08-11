@@ -1,9 +1,11 @@
-$whoami
-> jouban
-
+# 🤸‍♂️Jouban 
 **`Virtual Builder`**
+## About me: 
+- Build projects
+- Solve problems
+- Engineer solutions 
 
+<a href="https://www.linkedin.com/in/mohamad-jouban/" target="blank">
+ <img src="https://"skillicons.dev/icons?i=linkedin" alt=LinkedIn" />
+</a>
 
-<p align="center">
-  <img src="./assets/github-coffee-code.gif" alt="Hello, coffee and code" width="900">
-</p>
