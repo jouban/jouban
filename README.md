@@ -43,7 +43,7 @@ const mohamadjouban: student = {
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,php,c,github,linux)](https://skillicons.dev)
 
 ### ~ Reach Me:
-<a href="https://www.linkedin.com/in/mohamad-jouban/" target="blank">
+<a href="https://www.linkedin.com/in/mohamad-jouban-036188244/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
