@@ -1,10 +1,11 @@
-<h1 align="center"> ~$ whoami - Mohamad Jouban</h1>
-<h3 align="center">Virtual Builder</h3>
-<h3 align="center">Bridging Computer Science Neural Networks To Build Practical Automated Systems</h3>
-
 <p align="center">
   <img src="https://github.com/jouban/jouban/blob/main/e074932c6e8378b79da0b5c512f054a2.gif?raw=true" />
 </p>
+
+<h1 align="center"> ~$ whoami - Mohamad Jouban</h1>
+<h3 align="center">Developing automated and resilient ML systems that span from the latest advancements in neural science to real-world software engineering. </h3>
+
+## 
 
 ## ~ About Me
  - Student at UHUD
