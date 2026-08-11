@@ -1,4 +1,5 @@
-# 🤸‍♂️Jouban
+$whoami
+> jouban
 
 **`Virtual Builder`**
 
